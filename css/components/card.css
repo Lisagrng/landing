@@ -1,0 +1,71 @@
+.cards {
+  display: flex;
+  width: 100%;
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  text-align: center;
+}
+
+.cards img{
+  width: 150px;
+}
+
+.card-compute {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  margin: 50px 50px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  border-radius: 2px;
+  padding: 10px 40px;
+  height: 100%;
+  width: 200px;
+}
+
+.card-luggage {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  margin: 50px 50px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  border-radius: 2px;
+  padding: 10px 40px;
+  height: 100%;
+  width: 200px;
+
+}
+
+.card-travel {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  margin: 50px 50px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  border-radius: 2px;
+  padding: 10px 40px;
+  height: 100%;
+  width: 200px;
+}
+
+.card-footer {
+  display: flex;
+  flex-direction: column;
+  background-color: #606C38;
+  height: 100px;
+  width: 100%;
+  margin-top: 50px;
+  align-items: center;
+  font-size: 12px;
+  justify-content: center;
+  padding: 40px;
+  color:#FEFAE0;
+  flex-wrap: wrap;
+}
+.card-footer-card {
+  display: flex;
+}
