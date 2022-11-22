@@ -69,3 +69,15 @@
 .card-footer-card {
   display: flex;
 }
+
+@media (max-width: 900px) {
+  .cards {
+    margin-bottom: 15px;
+  }
+}
+
+@media (max-width: 500px) {
+  .cards {
+    justify-content: space-around;
+  }
+}
