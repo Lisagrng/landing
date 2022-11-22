@@ -1,7 +1,7 @@
 .banner {
   width: 100%;
   height: 300px;
-  background-image: linear-gradient(135deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url('./images/jungle.jpg');
+  background-image: linear-gradient(135deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url('../../images/jungle.jpg');
   background-size: cover;
   color: white;
   margin: 0 auto;
